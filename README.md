@@ -46,8 +46,9 @@
 - [Email](mailto:racabovkamran9@gmail.com)
 
 <p align="center">
-  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/master/src/github-snake.svg" alt="snake"/>
 </p>
+
 
 <h3 align="left">🛠 Технологии:</h3>
 
