@@ -46,7 +46,7 @@
 - [Email](mailto:racabovkamran9@gmail.com)
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/master/src/github-snake.svg" alt="snake"/>
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 
