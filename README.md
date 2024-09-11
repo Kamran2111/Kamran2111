@@ -6,15 +6,12 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Привет👋 Меня зовут Камран!</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://web.telegram.org/k/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -22,8 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kamran2111.Kamran2111&"  />
 </div>
+
 
 ###
 
@@ -31,13 +29,36 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+👋 **Привет!**  
+Я начинающий Frontend разработчик с давним увлечением программированием и созданием инновационных веб-приложений. Мое увлечение компьютерами началось с детства, и моя мечта стать программистом стала реальностью.
+
+🚀 **Мой путь в IT**  
+Мое путешествие началось в **Step IT Academy**, где я прошел интенсивные курсы по программированию и приобрел важные навыки. Затем я продолжил изучение Frontend разработки и погрузился в современные технологии.
+
+💻 **Технологии и инструменты, с которыми я работаю:**
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) **HTML5**
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **CSS3**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) **TypeScript**
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) **Redux**
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) **Tailwind CSS**
+
+🎯 **Мои цели:**  
+Стремлюсь стать экспертом в Frontend разработке и расширить свои навыки до уровня Fullstack разработчика. Постоянно учусь и ищу новые вызовы и проекты, которые помогут мне развиваться.
+
+💼 **Проекты и достижения:**
+- Разработка веб-приложений с использованием React и TypeScript
+- Создание адаптивных интерфейсов с помощью Tailwind CSS
+- Опыт работы с Redux для управления состоянием
+
+📫 **Связь со мной:**  
+- [LinkedIn](https://www.linkedin.com/in/racabovkamran)  
+- [Email](mailto:racabovkamran9@gmail.com)  
+
 
 ###
 <h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
 ###
 
