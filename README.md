@@ -46,8 +46,9 @@
 - [Email](mailto:racabovkamran9@gmail.com)
 
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img width="600" src="https://your-image-url.com/your-infographic.png" alt="Infographic"/>
 </p>
+
 
 
 
