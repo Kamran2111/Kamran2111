@@ -47,8 +47,31 @@
 
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/master/src/github-snake.svg" alt="snake"/>
+  <svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .snake {
+        fill: none;
+        stroke: #4caf50;
+        stroke-width: 10;
+        stroke-linecap: round;
+        stroke-dasharray: 5, 15;
+        stroke-dashoffset: 0;
+        animation: dash 1.5s linear infinite;
+      }
+
+      @keyframes dash {
+        from {
+          stroke-dashoffset: 100%;
+        }
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+    <path class="snake" d="M10 100 Q 50 20, 90 100 T 170 100 T 250 100 T 330 100 T 410 100 T 490 100 T 570 100" />
+  </svg>
 </p>
+
 
 
 
