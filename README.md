@@ -45,6 +45,14 @@
 - [LinkedIn](https://www.linkedin.com/in/kamran-racabov-572784261)  
 - [Email](mailto:racabovkamran9@gmail.com)
 
+###
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+
+
+
 
 <h3 align="left">🛠 Технологии:</h3>
 
