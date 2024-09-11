@@ -45,10 +45,11 @@
 - [LinkedIn](https://www.linkedin.com/in/kamran-racabov-572784261)  
 - [Email](mailto:racabovkamran9@gmail.com)
 
-###
+
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/master/src/github-snake.svg" alt="snake"/>
 </p>
+
 
 
 
